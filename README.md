@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./nitin-banner.png" width="100%" alt="Nitin Suhag - AI & ML">
+</p>
+
 # Hey, I'm Nitin Suhag 👋
 
 ### 🎓 B.Tech Student | Artificial Intelligence & Machine Learning
