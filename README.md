@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./github-banner.png" width="100%" alt="Nitin Suhag - AI & Machine Learning">
-</p>
-
 # Hey, I'm Nitin Suhag 👋
 
 ### 🎓 B.Tech Student | Artificial Intelligence & Machine Learning
