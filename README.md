@@ -115,7 +115,10 @@ A collection of practice work and projects created while learning and developing
 
 <p align="left">
   <a href="https://github.com/nitinsuhag6297">
-    <img src="https://img.shields.io/badge/GitHub-nitinsuhag6297-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-nitinsuhag6297-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nitin-suhag-b79bb8306/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nitin%20Suhag-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -125,6 +128,8 @@ A collection of practice work and projects created while learning and developing
   <i>"Learning, building, and improving — one project at a time."</i>
 </p>
 
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+
 <p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+  Feel free to explore my repositories and connect with me!
 </p>
